@@ -175,3 +175,4 @@ cython_debug/
 #git commit -m 'Projeto_Alura'  
 #git remote add origin https://github.com/DiogovBortolotti/Projeto_Alura.git
 #git push origin master  
+#git pull 
