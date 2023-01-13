@@ -168,3 +168,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+
+#git add
+#git commit -m 'Projeto_Alura'  
+#git remote add origin https://github.com/DiogovBortolotti/Projeto_Alura.git
+#git push origin master  
